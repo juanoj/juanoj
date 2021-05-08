@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juanoj
 - 👀 I’m interested in Fitness, Avionics and Technology
 - 🌱 I’m currently learning Advanced ML algorithms
-- 💞️ I’m looking to collaborate on projects of smart cities, IoT, air transportation 
+- 💞️ I’m looking to collaborate on projects of smart cities, telemedicine, IoT, air transportation 
 - 📫 How to reach me : juanjfigueroa3@gmail.com
 
 <!---
